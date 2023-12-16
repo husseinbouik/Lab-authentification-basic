@@ -1,4 +1,4 @@
-# Implémentation de l'Authentification pour le Projet
+# lab-authentification-basic
 
 ## Travail à Faire
 Votre objectif est d'intégrer une authentification de base dans le projet Laravel, renforçant la sécurité et garantissant que seuls les membres autorisés peuvent accéder à la plateforme de gestion de projet. Cela implique la mise en place de fonctionnalités d'authentification des utilisateurs pour gérer les connexions de manière sécurisée.
